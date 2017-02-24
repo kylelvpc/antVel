@@ -218,7 +218,6 @@ return [
         /*
          * Providers Vendors
          */
-        Laravel\Socialite\SocialiteServiceProvider::class,
         Intervention\Image\ImageServiceProvider::class,
         Collective\Html\HtmlServiceProvider::class,
         Barryvdh\Debugbar\ServiceProvider::class,
@@ -230,7 +229,6 @@ return [
         /*
          * Providers only for developers
          */
-        Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
     ],
 
     /*
