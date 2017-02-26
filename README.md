@@ -1,8 +1,28 @@
-# Antvel Shop
+================================================================================
+ THIS APP IS NO LONGER MAINTAINED
+================================================================================
 
-> We are working hard to separate the ***Antvel*** back-end from the front-end. Get involved if you want to help!!!
+**Short Version**
 
-Project Repository: <a href="https://github.com/ant-vel/Shop">Antvel Framework</a>
+- You're welcome to keep using Antvel, but
+- No support requests will be answered
+- No bugs will be fixed
+- No pull requests will be merged
+- Feel free to fork it and maintain it yourself
+
+**Why?**
+
+I originally built Antvel in Jan 2014 when I was just learning Laravel (Laravel 5). I decided to release it as a app mostly just to learn how github and OS worked.
+
+Over time it became verly known and people started opening issues requesting support and additional features. I've always tried to be helpful and provide support, and for the last 18 months I have been planning to dedicate some time to merging all the open pull requests, implementing the feature requests and pleasing some people who wanted a perfect software... But finally I realised I no longer have the time needed for it. 
+
+So rather than quietly abandoning it and leaving users wondering what happened, I have decided to officially refactor the e-commerce as a package rather than an app. Also, leaving Antvel as an app that makes use of the mentioned package. The whole working developing can be seen on:
+
+- Shop: https://github.com/ant-vel/Shop
+- App: https://github.com/ant-vel/App
+
+(To be clear, you are welcome to keep using it - just don't expect me to fix it if it breaks. That includes when new Laravel versions are relased.)
+
 
 -------------
 
