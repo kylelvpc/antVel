@@ -25,7 +25,9 @@
 		"barryvdh/laravel-debugbar": "2.*",
 		"predis/predis": "^1.0",
 		"davejamesmiller/laravel-breadcrumbs": "3.*",
-		"milon/barcode": "5.*"
+		"milon/barcode": "5.*",
+		"doctrine/dbal": "^2.5",
+		"anhskohbo/no-captcha": "2.*"
 	},
 	"require-dev": {
 		"friendsofphp/php-cs-fixer": "^1.10",
